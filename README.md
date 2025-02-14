@@ -4,9 +4,8 @@
 - 💞️ I’m looking forward to join a company in the role of data analyst or business analyst. 
 - 📫 you can reach me through Email and LinkedIn.
 - Email : vipinkumar27092001@gmail.com
-- LinkedIn : linkedin.com/in/vipin8264
+- LinkedIn : http://linkedin.com/in/vipin8264
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 Vipin1184/Vipin1184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
